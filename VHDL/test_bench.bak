@@ -1,0 +1,26 @@
+entity HALF_ADDER_TEST_BENCH is
+    
+end entity;
+
+architecture TB of HALF_ADDER_TEST_BENCH is
+    component HALF_ADDER
+    port (A, B : in bit
+	  S, C : out bit);
+    end component;
+    signal A, B, C, D : bit;
+    begin
+        UUT: HALF_ADDER port map (A=>A, B=>B, S=>S, C=>C);
+stim_proc1: process
+    begin
+    wait for 100 ns;
+    A <= not A;
+end process;    
+
+stim_proc2: process
+    begin
+    wait for 200 ns;
+    B <= not B;
+end process; 
+
+
+end TB;

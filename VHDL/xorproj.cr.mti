@@ -1,0 +1,7 @@
+C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/xor.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/xor.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+-- Loading package STANDARD
+-- Compiling entity XORGATTER
+-- Compiling architecture Data of XORGATTER
+
+} {} {}}

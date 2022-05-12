@@ -1,0 +1,352 @@
+m255
+K4
+z2
+!s11e vcom 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_pro/21.1
+Ebcd
+Z0 w1652361690
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 232
+Z3 dC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim
+Z4 8C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/BCD.vhd
+Z5 FC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/BCD.vhd
+l0
+L4 1
+V^CNkG5kU=keTB;[<TObF80
+!s100 =4Lck[4JenQj[Sn1FP`323
+Z6 OV;C;2021.1;73
+32
+Z7 !s110 1652362631
+!i10b 1
+Z8 !s108 1652362631.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/BCD.vhd|
+Z10 !s107 C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/BCD.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Acounter
+R1
+R2
+DEx4 work 3 bcd 0 22 ^CNkG5kU=keTB;[<TObF80
+!i122 232
+l10
+L9 19
+V:VWcTD`<Yigm^3@2@eJ<^1
+!s100 :ME`=QPNm0]iWIHe1Nfg40
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ebcd_test_bench
+Z13 w1652362627
+R1
+R2
+!i122 233
+R3
+Z14 8C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/BCD_test.vhd
+Z15 FC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/BCD_test.vhd
+l0
+L4 1
+V2N?`I>^Hj?YazVQVL?@BG2
+!s100 M4jCAdXi[c2hJ1e:IJ@V_0
+R6
+32
+Z16 !s110 1652362632
+!i10b 1
+R8
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/BCD_test.vhd|
+Z18 !s107 C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/BCD_test.vhd|
+!i113 1
+R11
+R12
+Abcd_tb
+R1
+R2
+Z19 DEx4 work 14 bcd_test_bench 0 22 2N?`I>^Hj?YazVQVL?@BG2
+!i122 233
+l15
+L8 14
+V5Y]hPYGdd[6[Bd>]mY<c40
+!s100 iMPT@^_N>:jj>`?MLjAYi0
+R6
+32
+R16
+!i10b 1
+R8
+R17
+R18
+!i113 1
+R11
+R12
+Efull_adder
+Z20 w1651758370
+!i122 229
+R3
+Z21 8C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Full_adder.vhd
+Z22 FC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Full_adder.vhd
+l0
+L1 1
+VdzJDQfaHLL8zE4O]GL8k=3
+!s100 9_RUo08n=<CKB_O1>c_eH3
+R6
+32
+R7
+!i10b 1
+R8
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Full_adder.vhd|
+Z24 !s107 C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Full_adder.vhd|
+!i113 1
+R11
+R12
+Aone_bit_full_adder
+DEx4 work 10 full_adder 0 22 dzJDQfaHLL8zE4O]GL8k=3
+!i122 229
+l15
+Z25 L7 18
+VJFEkjBz1`;IcmBKbI6NN03
+!s100 Zz=zThXi84EF1iB^ij>2^0
+R6
+32
+R7
+!i10b 1
+R8
+R23
+R24
+!i113 1
+R11
+R12
+Efull_adder_ok_test
+Z26 w1651759080
+!i122 230
+R3
+Z27 8C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/full_test.vhd
+Z28 FC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/full_test.vhd
+l0
+L1 1
+V`BK]d]GR8zMNZYz^D1h4k2
+!s100 g9OgU@Zh?J7YUBlOHT1R92
+R6
+32
+R7
+!i10b 1
+R8
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/full_test.vhd|
+Z30 !s107 C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/full_test.vhd|
+!i113 1
+R11
+R12
+Atb
+DEx4 work 18 full_adder_ok_test 0 22 `BK]d]GR8zMNZYz^D1h4k2
+!i122 230
+l11
+L5 14
+VzQUbK@7^@O[ommIk48^:R0
+!s100 STo@KMzbeo2EPlW0F2jBS3
+R6
+32
+R7
+!i10b 1
+R8
+R29
+R30
+!i113 1
+R11
+R12
+Efull_adder_test_bench
+Z31 w1651756895
+!i122 73
+R3
+R21
+R22
+l0
+L1 1
+VgYSXcT>YQ[6VZE24c_b]e3
+!s100 aXL:JlYmcKI;Lm^KYh?c70
+R6
+32
+Z32 !s110 1651756900
+!i10b 1
+Z33 !s108 1651756900.000000
+R23
+R24
+!i113 1
+R11
+R12
+Aone_bit_full_adder
+DEx4 work 21 full_adder_test_bench 0 22 gYSXcT>YQ[6VZE24c_b]e3
+!i122 73
+l15
+R25
+V;kU8ezgVL@P;JU0N>9Egc0
+!s100 h169To1jJR[dfoe7??iS23
+R6
+32
+R32
+!i10b 1
+R33
+R23
+R24
+!i113 1
+R11
+R12
+Ehalf_adder
+Z34 w1651150470
+!i122 227
+R3
+Z35 8C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Half_adder.vhd
+Z36 FC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Half_adder.vhd
+l0
+L1 1
+V3^NIP?j;`aQ<B2geE2l6a0
+!s100 Il^VDh7?nlgd03STf8E[91
+R6
+32
+R7
+!i10b 1
+Z37 !s108 1652362630.000000
+Z38 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Half_adder.vhd|
+Z39 !s107 C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Half_adder.vhd|
+!i113 1
+R11
+R12
+Aha
+DEx4 work 10 half_adder 0 22 3^NIP?j;`aQ<B2geE2l6a0
+!i122 227
+l7
+L6 5
+V?[Lm1L2e;X<o4e`hGM16c2
+!s100 102>5Ye:KQ5`=nST:nO]m3
+R6
+32
+R7
+!i10b 1
+R37
+R38
+R39
+!i113 1
+R11
+R12
+Ehalf_adder_test_bench
+Z40 w1651153338
+!i122 228
+R3
+Z41 8C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/test_bench.vhd
+Z42 FC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/test_bench.vhd
+l0
+L1 1
+V=kcBI0C9<<`4a;EbeMOb_3
+!s100 b=8M[iP<kFm^F;6OS8V>j3
+R6
+32
+R7
+!i10b 1
+R8
+Z43 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/test_bench.vhd|
+Z44 !s107 C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/test_bench.vhd|
+!i113 1
+R11
+R12
+Atb
+DEx4 work 21 half_adder_test_bench 0 22 =kcBI0C9<<`4a;EbeMOb_3
+!i122 228
+l11
+L5 13
+V3T3URLE75Vl@1LNfSIY_E2
+!s100 5SBldkiO7VfJNzjTCHgIR0
+R6
+32
+R7
+!i10b 1
+R8
+R43
+R44
+!i113 1
+R11
+R12
+Eripple
+Z45 w1651762837
+!i122 231
+R3
+Z46 8C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/cary_ripple.vhd
+Z47 FC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/cary_ripple.vhd
+l0
+L1 1
+ViIVnkJ2kCG;@hOa<g@>982
+!s100 Mg1g0>[dJYE:Jd8Vk737V3
+R6
+32
+R7
+!i10b 1
+R8
+Z48 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/cary_ripple.vhd|
+Z49 !s107 C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/cary_ripple.vhd|
+!i113 1
+R11
+R12
+Aone_bit_full_adder
+DEx4 work 6 ripple 0 22 iIVnkJ2kCG;@hOa<g@>982
+!i122 231
+l15
+L7 20
+VTE=34]ca0mVGfCXdo8Dj61
+!s100 WMoTFBYDoQY>ZPF`QE70[1
+R6
+32
+R7
+!i10b 1
+R8
+R48
+R49
+!i113 1
+R11
+R12
+Exorgatter
+Z50 w1649271261
+!i122 1
+R3
+Z51 8C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/xor.vhd
+Z52 FC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/xor.vhd
+l0
+L1 1
+V5=FmEdli?z;g_98gJ2SKo3
+!s100 l7elM_jfGMXG7F?nSh_N40
+R6
+32
+Z53 !s110 1649271451
+!i10b 1
+Z54 !s108 1649271451.000000
+Z55 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/xor.vhd|
+Z56 !s107 C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/xor.vhd|
+!i113 1
+R11
+R12
+Adata
+DEx4 work 9 xorgatter 0 22 5=FmEdli?z;g_98gJ2SKo3
+!i122 1
+l7
+L6 4
+V[O_6>47gkPFY]bFCYm?TQ0
+!s100 jd_b1Dn1P4U[6T<1;666m3
+R6
+32
+R53
+!i10b 1
+R54
+R55
+R56
+!i113 1
+R11
+R12

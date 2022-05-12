@@ -1,0 +1,39 @@
+C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/test_bench.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/test_bench.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+-- Loading package STANDARD
+-- Compiling entity HALF_ADDER_TEST_BENCH
+-- Compiling architecture TB of HALF_ADDER_TEST_BENCH
+
+} {} {}} C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/BCD.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/BCD.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity BCD
+-- Compiling architecture COUNTER of BCD
+
+} {} {}} C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/cary_ripple.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/cary_ripple.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+-- Loading package STANDARD
+-- Compiling entity RIPPLE
+-- Compiling architecture ONE_BIT_FULL_ADDER of RIPPLE
+
+} {} {}} C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/full_test.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/full_test.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+-- Loading package STANDARD
+-- Compiling entity FULL_ADDER_OK_TEST
+-- Compiling architecture TB of FULL_ADDER_OK_TEST
+
+} {} {}} C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Half_adder.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Half_adder.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+-- Loading package STANDARD
+-- Compiling entity HALF_ADDER
+-- Compiling architecture HA of HALF_ADDER
+
+} {} {}} C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Full_adder.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Full_adder.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+-- Loading package STANDARD
+-- Compiling entity FULL_ADDER
+-- Compiling architecture ONE_BIT_FULL_ADDER of FULL_ADDER
+
+} {} {}}
