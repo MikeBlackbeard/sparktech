@@ -1,0 +1,28 @@
+1. microphone sensor 
+    1. KY-037 Mikrofon Sensor Modul 
+    or
+    2. KY-038 Mikrofon Sound Sensor Modul
+    
+        to hear the sound of animal, whether they are screaming and are they in trouble
+        
+2.  infrared sensor and image receiver 
+    1. KY-032 Hindernis Detektor Modul
+        
+        to detect the existence of animal with infrared
+        
+    2. KY-022 Infrarot Receiver Modul
+        
+        to receive infrared image for remote use
+        
+3. ultra sonic sensor and receiver
+    1. 
+    
+4. buzzer
+    1. KY-012 Aktives Piezo-Buzzer Modul
+        
+        automatic inform detection of animal existence
+        
+5. red-green-led 
+    1. KY-011 2-Farben[Rot+Gruen] 5mm LED Modul
+        
+        automatic inform detection of animal existence
