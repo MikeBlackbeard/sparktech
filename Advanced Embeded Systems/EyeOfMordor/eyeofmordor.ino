@@ -2,10 +2,10 @@
 #include <ArduinoMqttClient.h>
 
 //wifi definition
-#define SECRET_SSID "TheMetalPort"
-#define SECRET_PASS "FromOneTo8+-"
+#define SECRET_SSID "***" // wifi network
+#define SECRET_PASS "***"  // wifi password
 //broker definitions
-#define broker "192.168.178.62"
+#define broker "***"  // raspberry ip address
 #define port 1883
 #define topic "eom/uss"
 
