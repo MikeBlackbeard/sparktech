@@ -3,6 +3,7 @@
 
 #define TOPIC_I "uss"
 #define TOPIC_O "led"
+#define TOPIC_D "distance"
 
 void on_connect(struct mosquitto* mosq, void* obj, int rc)
 {
@@ -31,13 +32,24 @@ void on_message(struct mosquitto* mosq, void* obj, const struct mosquitto_messag
     {
         std::cerr << e.what() << std::endl;
     }
-    if (distance < 10)
+    if (distance > 12)
     {
-        std::string msg_o = std::to_string(distance);
-        const char* msg_o_c = msg_o.c_str();
-        int lenght = msg_o.length();
-        mosquitto_publish(mosq, NULL, TOPIC_O, lenght, msg_o_c, 0, false);
+        mosquitto_publish(mosq, NULL, TOPIC_O, 1, "0", 0, false); 
     }
+    
+    if (distance > 6 && distance < 12)
+    {
+        
+        mosquitto_publish(mosq, NULL, TOPIC_O, 1, "1", 0, false);
+    }
+    else if (distance <= 6)
+    {
+        mosquitto_publish(mosq, NULL, TOPIC_O, 1, "2", 0, false);
+    }
+    std::string ds_o = std::to_string(distance);
+    const char* msg_o_c = ds_o.c_str();
+    int lenght = ds_o.length();
+    mosquitto_publish(mosq, NULL, TOPIC_D, lenght, msg_o_c, 0, false);
 }
 
 int main()
