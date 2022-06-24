@@ -1,0 +1,27 @@
+xst -intstyle ise -ifn "C:/Users/vickj/XlinxsProjects/Coffee_de_campo/COFFEE_M_W.xst" -ofn "C:/Users/vickj/XlinxsProjects/Coffee_de_campo/COFFEE_M_W.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s1000-ft256-5 COFFEE_M_W.ngc COFFEE_M_W.ngd  
+map -intstyle ise -p xc3s1000-ft256-5 -cm area -ir off -pr off -c 100 -o COFFEE_M_W_map.ncd COFFEE_M_W.ngd COFFEE_M_W.pcf 
+par -w -intstyle ise -ol high -t 1 COFFEE_M_W_map.ncd COFFEE_M_W.ncd COFFEE_M_W.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml COFFEE_M_W.twx COFFEE_M_W.ncd -o COFFEE_M_W.twr COFFEE_M_W.pcf 
+xst -intstyle ise -ifn "C:/Users/vickj/XlinxsProjects/Coffee_de_campo/COFFEE_M_W.xst" -ofn "C:/Users/vickj/XlinxsProjects/Coffee_de_campo/COFFEE_M_W.syr" 
+xst -intstyle ise -ifn "C:/Users/vickj/XlinxsProjects/Coffee_de_campo/COFFEE_M_W.xst" -ofn "C:/Users/vickj/XlinxsProjects/Coffee_de_campo/COFFEE_M_W.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Coffe_de_campo.ucf -p xc3s1000-ft256-5 COFFEE_M_W.ngc COFFEE_M_W.ngd  
+map -intstyle ise -p xc3s1000-ft256-5 -cm area -ir off -pr off -c 100 -o COFFEE_M_W_map.ncd COFFEE_M_W.ngd COFFEE_M_W.pcf 
+par -w -intstyle ise -ol high -t 1 COFFEE_M_W_map.ncd COFFEE_M_W.ncd COFFEE_M_W.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml COFFEE_M_W.twx COFFEE_M_W.ncd -o COFFEE_M_W.twr COFFEE_M_W.pcf -ucf Coffe_de_campo.ucf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Coffe_de_campo.ucf -p xc3s1000-ft256-5 COFFEE_M_W.ngc COFFEE_M_W.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Coffe_de_campo.ucf -p xc3s1000-ft256-5 COFFEE_M_W.ngc COFFEE_M_W.ngd  
+map -intstyle ise -p xc3s1000-ft256-5 -cm area -ir off -pr off -c 100 -o COFFEE_M_W_map.ncd COFFEE_M_W.ngd COFFEE_M_W.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Coffe_de_campo.ucf -p xc3s1000-ft256-5 COFFEE_M_W.ngc COFFEE_M_W.ngd  
+map -intstyle ise -p xc3s1000-ft256-5 -cm area -ir off -pr off -c 100 -o COFFEE_M_W_map.ncd COFFEE_M_W.ngd COFFEE_M_W.pcf 
+par -w -intstyle ise -ol high -t 1 COFFEE_M_W_map.ncd COFFEE_M_W.ncd COFFEE_M_W.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml COFFEE_M_W.twx COFFEE_M_W.ncd -o COFFEE_M_W.twr COFFEE_M_W.pcf -ucf Coffe_de_campo.ucf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Coffe_de_campo.ucf -p xc3s1000-ft256-5 COFFEE_M_W.ngc COFFEE_M_W.ngd  
+map -intstyle ise -p xc3s1000-ft256-5 -cm area -ir off -pr off -c 100 -o COFFEE_M_W_map.ncd COFFEE_M_W.ngd COFFEE_M_W.pcf 
+par -w -intstyle ise -ol high -t 1 COFFEE_M_W_map.ncd COFFEE_M_W.ncd COFFEE_M_W.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml COFFEE_M_W.twx COFFEE_M_W.ncd -o COFFEE_M_W.twr COFFEE_M_W.pcf -ucf Coffe_de_campo.ucf 
+xst -intstyle ise -ifn "C:/Users/vickj/XlinxsProjects/Coffee_de_campo/COFFEE_M_W.xst" -ofn "C:/Users/vickj/XlinxsProjects/Coffee_de_campo/COFFEE_M_W.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Coffe_de_campo.ucf -p xc3s1000-ft256-5 COFFEE_M_W.ngc COFFEE_M_W.ngd  
+map -intstyle ise -p xc3s1000-ft256-5 -cm area -ir off -pr off -c 100 -o COFFEE_M_W_map.ncd COFFEE_M_W.ngd COFFEE_M_W.pcf 
+par -w -intstyle ise -ol high -t 1 COFFEE_M_W_map.ncd COFFEE_M_W.ncd COFFEE_M_W.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml COFFEE_M_W.twx COFFEE_M_W.ncd -o COFFEE_M_W.twr COFFEE_M_W.pcf -ucf Coffe_de_campo.ucf 

@@ -1,0 +1,3 @@
+vhdl work "Coffe_S2.vhd"
+vhdl work "Coffee_Machine_S1.vhd"
+vhdl work "Coffee_Machine_Whole.vhd"

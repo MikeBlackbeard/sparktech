@@ -1,0 +1,106 @@
+--------------------------------------------------------------------------------
+Release 14.7 Trace  (nt)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+C:\Xilinx\14.7\ISE_DS\ISE\bin\nt\unwrapped\trce.exe -intstyle ise -v 3 -s 5 -n
+3 -fastpaths -xml COFFEE_M_W.twx COFFEE_M_W.ncd -o COFFEE_M_W.twr
+COFFEE_M_W.pcf -ucf Coffe_de_campo.ucf
+
+Design file:              COFFEE_M_W.ncd
+Physical constraint file: COFFEE_M_W.pcf
+Device,package,speed:     xc3s1000,ft256,-5 (PRODUCTION 1.39 2013-10-13)
+Report level:             verbose report
+
+Environment Variable      Effect 
+--------------------      ------ 
+NONE                      No environment variables were set
+--------------------------------------------------------------------------------
+
+INFO:Timing:2698 - No timing constraints found, doing default enumeration.
+INFO:Timing:3412 - To improve timing, see the Timing Closure User Guide (UG612).
+INFO:Timing:2752 - To get complete path coverage, use the unconstrained paths 
+   option. All paths that are not constrained will be reported in the 
+   unconstrained paths section(s) of the report.
+INFO:Timing:3339 - The clock-to-out numbers in this timing report are based on 
+   a 50 Ohm transmission line loading model.  For the details of this model, 
+   and for more information on accounting for different loading conditions, 
+   please see the device datasheet.
+INFO:Timing:3390 - This architecture does not support a default System Jitter 
+   value, please add SYSTEM_JITTER constraint to the UCF to modify the Clock 
+   Uncertainty calculation.
+INFO:Timing:3389 - This architecture does not support 'Discrete Jitter' and 
+   'Phase Error' calculations, these terms will be zero in the Clock 
+   Uncertainty calculation.  Please make appropriate modification to 
+   SYSTEM_JITTER to account for the unsupported Discrete Jitter and Phase 
+   Error.
+
+
+
+Data Sheet report:
+-----------------
+All values displayed in nanoseconds (ns)
+
+Pad to Pad
+---------------+---------------+---------+
+Source Pad     |Destination Pad|  Delay  |
+---------------+---------------+---------+
+UINPUT<0>      |SUGAR<0>       |    9.463|
+UINPUT<1>      |COFFEE<0>      |    9.661|
+UINPUT<1>      |COFFEE<1>      |    9.943|
+UINPUT<1>      |FOAM<0>        |    9.955|
+UINPUT<1>      |FOAM<1>        |   10.250|
+UINPUT<1>      |MILK<1>        |   10.252|
+UINPUT<1>      |MILK<3>        |    7.952|
+UINPUT<1>      |SUGAR<0>       |   10.816|
+UINPUT<1>      |WATER<0>       |   10.890|
+UINPUT<1>      |WATER<1>       |   11.480|
+UINPUT<2>      |COFFEE<0>      |    8.321|
+UINPUT<2>      |COFFEE<1>      |    9.258|
+UINPUT<2>      |FOAM<0>        |    8.884|
+UINPUT<2>      |FOAM<1>        |    8.910|
+UINPUT<2>      |MILK<1>        |    8.912|
+UINPUT<2>      |MILK<3>        |    7.156|
+UINPUT<2>      |SUGAR<0>       |    9.476|
+UINPUT<2>      |WATER<0>       |   10.006|
+UINPUT<2>      |WATER<1>       |   10.596|
+UINPUT<3>      |COFFEE<0>      |    7.726|
+UINPUT<3>      |COFFEE<1>      |    9.356|
+UINPUT<3>      |FOAM<0>        |   10.225|
+UINPUT<3>      |FOAM<1>        |    8.361|
+UINPUT<3>      |MILK<1>        |    8.363|
+UINPUT<3>      |MILK<3>        |    7.795|
+UINPUT<3>      |SUGAR<0>       |    9.117|
+UINPUT<3>      |WATER<0>       |    9.511|
+UINPUT<3>      |WATER<1>       |   10.101|
+UINPUT<4>      |COFFEE<0>      |    7.892|
+UINPUT<4>      |COFFEE<1>      |    8.528|
+UINPUT<4>      |FOAM<0>        |    9.282|
+UINPUT<4>      |FOAM<1>        |    8.481|
+UINPUT<4>      |MILK<1>        |    8.483|
+UINPUT<4>      |MILK<3>        |    6.852|
+UINPUT<4>      |SUGAR<0>       |    9.047|
+UINPUT<4>      |WATER<0>       |    9.751|
+UINPUT<4>      |WATER<1>       |   10.341|
+UINPUT<5>      |COFFEE<0>      |    7.393|
+UINPUT<5>      |COFFEE<1>      |    7.597|
+UINPUT<5>      |FOAM<0>        |    9.181|
+UINPUT<5>      |FOAM<1>        |    7.964|
+UINPUT<5>      |MILK<1>        |    7.966|
+UINPUT<5>      |MILK<3>        |    6.751|
+UINPUT<5>      |SUGAR<0>       |    8.548|
+UINPUT<5>      |WATER<0>       |    9.799|
+UINPUT<5>      |WATER<1>       |   10.389|
+---------------+---------------+---------+
+
+
+Analysis completed Thu Jun 23 15:37:24 2022 
+--------------------------------------------------------------------------------
+
+Trace Settings:
+-------------------------
+Trace Settings 
+
+Peak Memory Usage: 133 MB
+
+
+

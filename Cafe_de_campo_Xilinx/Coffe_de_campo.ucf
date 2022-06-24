@@ -1,0 +1,18 @@
+# Input (one Input)
+
+NET "UINPUT<0>"	LOC = "F12"	;
+NET "UINPUT<1>"	LOC = "G12"	;
+NET "UINPUT<2>"	LOC = "H14"	;
+NET "UINPUT<3>"	LOC = "H13"	;
+NET "UINPUT<4>"	LOC = "J14"	;
+NET "UINPUT<5>"	LOC = "J13"	;
+
+
+# Outputs using LED (5 output)
+
+NET "COFFEE<0>"	LOC = "K12"	;
+NET "FOAM<0>"	LOC = "P14"	;
+NET "MILK<0>"	LOC = "L12"	;
+NET "SUGAR<0>"	LOC = "N14"	;
+NET "WATER<0>"	LOC = "P13"	;
+

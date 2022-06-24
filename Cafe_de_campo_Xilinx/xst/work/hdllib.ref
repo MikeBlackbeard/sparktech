@@ -1,0 +1,6 @@
+AR coffee_m_w c2tb C:/Users/vickj/XlinxsProjects/Coffee_de_campo/Coffee_Machine_Whole.vhd sub00/vhpl05 1655991023
+EN dummy_coffee_machine NULL C:/Users/vickj/XlinxsProjects/Coffee_de_campo/Coffee_Machine_S1.vhd sub00/vhpl00 1655991018
+AR coffe_s2 mix C:/Users/vickj/XlinxsProjects/Coffee_de_campo/Coffe_S2.vhd sub00/vhpl03 1655991021
+AR dummy_coffee_machine input C:/Users/vickj/XlinxsProjects/Coffee_de_campo/Coffee_Machine_S1.vhd sub00/vhpl01 1655991019
+EN coffe_s2 NULL C:/Users/vickj/XlinxsProjects/Coffee_de_campo/Coffe_S2.vhd sub00/vhpl02 1655991020
+EN coffee_m_w NULL C:/Users/vickj/XlinxsProjects/Coffee_de_campo/Coffee_Machine_Whole.vhd sub00/vhpl04 1655991022

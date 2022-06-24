@@ -1,0 +1,18 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Thu Jun 23 15:37:16 2022
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "SUGAR<0>" LOCATE = SITE "N14" LEVEL 1;
+COMP "WATER<0>" LOCATE = SITE "P13" LEVEL 1;
+COMP "FOAM<0>" LOCATE = SITE "P14" LEVEL 1;
+COMP "UINPUT<0>" LOCATE = SITE "F12" LEVEL 1;
+COMP "UINPUT<1>" LOCATE = SITE "G12" LEVEL 1;
+COMP "COFFEE<0>" LOCATE = SITE "K12" LEVEL 1;
+COMP "UINPUT<2>" LOCATE = SITE "H14" LEVEL 1;
+COMP "MILK<0>" LOCATE = SITE "L12" LEVEL 1;
+COMP "UINPUT<3>" LOCATE = SITE "H13" LEVEL 1;
+COMP "UINPUT<4>" LOCATE = SITE "J14" LEVEL 1;
+COMP "UINPUT<5>" LOCATE = SITE "J13" LEVEL 1;
+SCHEMATIC END;
+
