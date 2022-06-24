@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.10)  24 JUN 2022 16:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.10)  24 JUN 2022 20:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -88,8 +88,7 @@ d\l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count197
 \l__pdf_internal_box=\box50
-)
-No file main.aux.
+) (main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
@@ -156,37 +155,19 @@ Overfull \hbox (7.03638pt too wide) in paragraph at lines 30--31
 [][] 
  []
 
-
-LaTeX Warning: Reference `fig::bd' on page 2 undefined on input line 35.
-
 [2 <./img/block_diagram.png>]
-
-LaTeX Warning: Reference `fig::broker' on page 3 undefined on input line 37.
-
 <img/mosquitto1.png, id=15, 380.92313pt x 251.43938pt>
 File: img/mosquitto1.png Graphic file (type png)
 <use img/mosquitto1.png>
 Package pdftex.def Info: img/mosquitto1.png  used on input line 40.
 (pdftex.def)             Requested size: 380.92218pt x 251.43875pt.
-
-LaTeX Warning: Reference `sec:implementation' on page 3 undefined on input line
- 45.
-
-
-LaTeX Warning: Reference `fig::ard' on page 3 undefined on input line 47.
-
-[3 <./img/mosquitto1.png>]
+ [3 <./img/mosquitto1.png>]
 <img/tinker1.png, id=19, 493.0922pt x 560.0925pt>
 File: img/tinker1.png Graphic file (type png)
 <use img/tinker1.png>
 Package pdftex.def Info: img/tinker1.png  used on input line 50.
 (pdftex.def)             Requested size: 295.85759pt x 336.05809pt.
- [4 <./img/tinker1.png>]
-
-LaTeX Warning: Reference `fig::architecture' on page 5 undefined on input line 
-80.
-
-[5]
+ [4 <./img/tinker1.png>] [5]
 <img/architecture.png, id=27, 717.43031pt x 307.1475pt>
 File: img/architecture.png Graphic file (type png)
 <use img/architecture.png>
@@ -197,122 +178,94 @@ Overfull \hbox (4.58789pt too wide) in paragraph at lines 83--84
 [][] 
  []
 
+[6 <./img/architecture.png>] [7]
+<img/broker.png, id=36, 635.37375pt x 605.26125pt>
+File: img/broker.png Graphic file (type png)
+<use img/broker.png>
+Package pdftex.def Info: img/broker.png  used on input line 153.
+(pdftex.def)             Requested size: 422.51823pt x 402.49367pt.
 
-LaTeX Warning: Citation `tech1' on page 6 undefined on input line 104.
+Overfull \hbox (32.51823pt too wide) in paragraph at lines 153--154
+[][] 
+ []
 
-[6 <./img/architecture.png>]
-
-LaTeX Warning: Citation `tech2' on page 7 undefined on input line 114.
-
-
-LaTeX Warning: Citation `tech3' on page 7 undefined on input line 120.
-
-[7]
-
-LaTeX Warning: Citation `tech4' on page 8 undefined on input line 132.
-
-
-LaTeX Warning: Reference `fig:arduino1' on page 8 undefined on input line 154.
-
-[8]
-<img/ard1.png, id=40, 587.19376pt x 473.51906pt>
+[8] [9 <./img/broker.png>]
+<img/ard1.png, id=45, 587.19376pt x 473.51906pt>
 File: img/ard1.png Graphic file (type png)
 <use img/ard1.png>
-Package pdftex.def Info: img/ard1.png  used on input line 157.
+Package pdftex.def Info: img/ard1.png  used on input line 163.
 (pdftex.def)             Requested size: 390.47894pt x 314.8862pt.
-
-
-LaTeX Warning: Reference `fig:arduino2' on page 9 undefined on input line 162.
-
-[9 <./img/ard1.png>]
-<img/ard2.png, id=44, 240.9pt x 137.7647pt>
+<img/ard2.png, id=46, 240.9pt x 137.7647pt>
 File: img/ard2.png Graphic file (type png)
 <use img/ard2.png>
-Package pdftex.def Info: img/ard2.png  used on input line 165.
+Package pdftex.def Info: img/ard2.png  used on input line 171.
 (pdftex.def)             Requested size: 168.62883pt x 96.43462pt.
-
-Overfull \hbox (0.24362pt too wide) in paragraph at lines 170--171
+ [10 <./img/ard1.png>]
+Overfull \hbox (0.24362pt too wide) in paragraph at lines 176--177
 \OT1/cmr/m/it/12 mes-sa-ge-Size), ul-tra-sonic[]pub(), re-conect(), setup() \OT
 1/cmr/m/n/12 and \OT1/cmr/m/it/12 loop()\OT1/cmr/m/n/12 . The \OT1/cmr/m/it/12 
 wi-fiesetup
  []
 
-
-LaTeX Warning: Reference `sec:arduino' on page 10 undefined on input line 174.
-
-<img/phone1.jpeg, id=45, 1084.05pt x 956.57375pt>
+<img/phone1.jpeg, id=50, 1084.05pt x 956.57375pt>
 File: img/phone1.jpeg Graphic file (type jpg)
 <use img/phone1.jpeg>
-Package pdftex.def Info: img/phone1.jpeg  used on input line 177.
+Package pdftex.def Info: img/phone1.jpeg  used on input line 183.
 (pdftex.def)             Requested size: 271.01184pt x 239.14285pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[10 <./img/ard2.png>]
-
-LaTeX Warning: Reference `fig::eye1' on page 11 undefined on input line 191.
-
-<img/eye1.png, id=50, 252.945pt x 285.31593pt>
+[11 <./img/ard2.png>]
+<img/eye1.png, id=55, 252.945pt x 285.31593pt>
 File: img/eye1.png Graphic file (type png)
 <use img/eye1.png>
-Package pdftex.def Info: img/eye1.png  used on input line 194.
+Package pdftex.def Info: img/eye1.png  used on input line 200.
 (pdftex.def)             Requested size: 202.35626pt x 228.25305pt.
-[11 <./img/phone1.jpeg>]
-
-LaTeX Warning: Reference `fig:eye23' on page 12 undefined on input line 199.
-
-<img/eye2.png, id=54, 154.32657pt x 274.02374pt>
+ [12 <./img/phone1.jpeg>]
+<img/eye2.png, id=59, 154.32657pt x 274.02374pt>
 File: img/eye2.png Graphic file (type png)
 <use img/eye2.png>
-Package pdftex.def Info: img/eye2.png  used on input line 203.
+Package pdftex.def Info: img/eye2.png  used on input line 209.
 (pdftex.def)             Requested size: 117.00119pt x 207.75427pt.
-<img/eye4.png, id=55, 209.28188pt x 252.945pt>
+<img/eye4.png, id=60, 209.28188pt x 252.945pt>
 File: img/eye4.png Graphic file (type png)
 <use img/eye4.png>
-Package pdftex.def Info: img/eye4.png  used on input line 208.
+Package pdftex.def Info: img/eye4.png  used on input line 214.
 (pdftex.def)             Requested size: 117.00119pt x 141.40894pt.
-<img/eye3.png, id=56, 326.72063pt x 214.55156pt>
+<img/eye3.png, id=61, 326.72063pt x 214.55156pt>
 File: img/eye3.png Graphic file (type png)
 <use img/eye3.png>
-Package pdftex.def Info: img/eye3.png  used on input line 214.
+Package pdftex.def Info: img/eye3.png  used on input line 220.
 (pdftex.def)             Requested size: 156.0006pt x 102.44012pt.
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-LaTeX Warning: Reference `fig:eye23' on page 12 undefined on input line 223.
-
-
-LaTeX Warning: Reference `fig:phone1' on page 12 undefined on input line 227.
-
-[12 <./img/eye1.png>] [13 <./img/eye2.png> <./img/eye4.png> <./img/eye3.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 242--243
+[13 <./img/eye1.png>] [14 <./img/eye2.png> <./img/eye4.png> <./img/eye3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 248--249
 []\OT1/cmr/m/n/12 APM. (n.d.-b). What is project man-age-ment?
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 245--246
+Underfull \hbox (badness 10000) in paragraph at lines 251--252
 []\OT1/cmr/m/n/12 GitHub. (n.d.). About projects. About Projects.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 245--246
+Underfull \hbox (badness 10000) in paragraph at lines 251--252
 \OT1/cmr/m/n/12 https://docs.github.com/en/issues/trying-out-the-new-projects-
  []
 
-[14] (main.aux)
-
-LaTeX Warning: There were undefined references.
-
+[15] (main.aux)
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 2813 strings out of 478582
- 51603 string characters out of 2837264
+ 2823 strings out of 478582
+ 51841 string characters out of 2837264
  342165 words of memory out of 3000000
- 21020 multiletter control sequences out of 15000+600000
+ 21027 multiletter control sequences out of 15000+600000
  473280 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  67i,8n,77p,1339b,476s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -324,9 +277,9 @@ ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users
 /cm/cmr12.pfb><C:/Users/$FCFJ00-NB0564CH0C6I/AppData/Local/Programs/MiKTeX/font
 s/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/$FCFJ00-NB0564CH0C6I/AppData/Loc
 al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (14 pages, 1140195 bytes).
+Output written on main.pdf (15 pages, 1173750 bytes).
 PDF statistics:
- 95 PDF objects out of 1000 (max. 8388607)
+ 100 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
 

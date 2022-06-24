@@ -143,15 +143,21 @@ This is an android application that enables us to subscribe to and publish topic
 
 \section{Implementation} \label{sec:implementation}
 
-There were two main steps to implement Eye of Mordor, the Arduino and the Raspberry Pi
+There were three main components to implement Eye of Mordor, the Arduino, the Raspberry Pi and the MQTT mobile app.
 
 \subsection{Raspberry Pi}
 
-To be able to connect the first part was to install Mosquitto broker in the Raspberry Pi. By default. A broker written in C++ runs on the Raspberry pi to decode information. The c broker on the Raspberry Pi has two functions \textit{on\_connect} and \textit{on\_message}. The \textit{on\_message} function will handle all the incoming messages from the Arduino, it will make the calculations and will return the value of the led that has to be turned on or off as well when the buzzer should buzz.
+To realize the connection between client and server, the first step was to install Mosquitto broker in the Raspberry Pi. By default. A broker program written in C++ runs on the Raspberry pi to decode information under the MQTT protocol. The c broker on the Raspberry Pi has two functions \textit{on\_connect} and \textit{on\_message}. The \textit{on\_message} function handles all the incoming messages from the Arduino, it makes the computation and then return the value of the LED which has to be turned on or off as well when the buzzer buzzes. Figure \ref{fig::broker}
+
+\begin{figure}[!h]
+\includegraphics[scale=0.665]{img/broker.png}
+\caption{C++ broker}
+\label{fig:broker}
+\end{figure}
 
 \subsection{Arduino} \label{sec:arduino}
 
-The implementation in the Arduino starts with the connection to the the Internet, this connection was done with the use of the WiFiNINA library, we declare the IP address of the broker and the port that we will use. The IP address can be taken from the command line on the Raspberry Pi with the command \textit{hostname -I} and the port is defined as \textit{1883} that is the port defined by the Mosquitto broker. We also define the names of the topics that are used in the implementation: \textit{uss, led} and \textit{stop}. The \textit{uss} topic will send the information of the ultra sonic sensor, the \textit{led} topic will receive the information of which led has to be on and the \textit{stop} topic is used to stop the buzzer using the mobile phone. Also the ports of the Arduino are setted as shown in Figure \ref{fig:arduino1}.
+The implementation in the Arduino starts with the connection to the the Internet, this connection was done with the use of the WiFiNINA library, we declare the IP address of the broker and the port that we will use. The IP address can be taken from the command line on the Raspberry Pi with the command \textit{hostname -I}, and the port is defined as \textit{1883} that is the port defined by the Mosquitto broker. We also define the names of the topics that are used in the implementation: \textit{uss, led} and \textit{stop}. The \textit{uss} topic will send the information of the ultra sonic sensor, the \textit{led} topic will receive the information of which led has to be on and the \textit{stop} topic is used to stop the buzzer using the mobile phone. Moreover, the ports of the Arduino are setted as shown in Figure \ref{fig:arduino1}.
 
 \begin{figure}[h]
 \includegraphics[scale=0.665]{img/ard1.png}
@@ -171,7 +177,7 @@ The Arduino code is based in six functions \textit{wifisetup(), onMqttMessage(in
 
 \subsection{MQTT Mobile app}
 
-The MQTT mobile app is configured with the IP address, and the port with the same data used in the Arduino (Section \ref{sec:arduino}). The mobile app only subscribe the topic \textit{distance} to get the distance of the detections, and publishes in the topic \textit{stop} to stop de buzzer when beeping 
+The MQTT mobile app is configured with the IP address, and the port with the same data used in the Arduino (Section \ref{sec:arduino}). The mobile app subscribes only to the topic \textit{distance} to get the distance of the detections, and publishes in the topic \textit{stop} to stop the buzzer when beeping when the detection is still close to the sensor.
 
 \begin{figure}[h]
 \centering{ \includegraphics[scale=0.25]{img/phone1.jpeg}}
@@ -196,7 +202,7 @@ The breadboard represents the Drone´s place holder for the sensor . Since it is
 \label{fig::eye1}
 \end{figure}
 
-To represent the animal we are using the card board also can be shown in the picture. As we can see in the figure bellow, if we come near to the sensors it starts to read the cards(animals) presence and turn on the yellow LED and send the approximate distance to the hosting device, Figure \ref{fig:eye23}
+To represent the animal we are using the card board also can be shown in the picture. As we can see in the Figure \ref{fig:eye23} (a) bellow, if we come near to the sensors it starts to read the cards(animals) presence and turn on the yellow LED and send the approximate distance to the hosting device, Figure \ref{fig:eye23}
 
 \begin{figure}[!h]
 \begin{subfigure}{.5\textwidth}
@@ -222,7 +228,7 @@ To represent the animal we are using the card board also can be shown in the pic
 
 When it goes real close to the animal it turn on the red LED to notify user and send the distance info to the user so the user can know how close they are from the animal. This demonstration can be followed by the Figure \ref{fig:eye23}.
 
-Once it gather the data it can forward it to its operator as shown in the figures above to ensure that there is an animal. Thus the operator can take necessary actions like whether to rescue, relocate or inform nearby farmer. The possibility is limitless.
+Once it gather the data it can forward it to its operator as shown in the Figure \ref{fig:eye23}. to ensure that there is an animal. Thus the operator can take necessary actions like whether to rescue, relocate or inform nearby farmer. The possibility is limitless.
 
 Alternatively we can place A device like an “Alarm” or “Notification system on Smart phone” to alert the farmer that there is an animal so that he may take necessary precautions. To represent the scenario in our project, LED and Buzzers been used. Here in the presence of the Card (Animal) the buzzer makes noise and The LED Lights up to represent The Alarm and notification respectively. Once recognized the condition the user can turn off the buzzer and led by pressing the stop button on the smartphone app as shown in Figure \ref{fig:phone1}.
 

@@ -1,0 +1,441 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.10)  24 JUN 2022 19:52
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./main.tex
+(main.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24>
+(C:\Users\$FCFJ00-NB0564CH0C6I\AppData\Local\Programs\MiKTeX\tex/latex/base\art
+icle.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+
+(C:\Users\$FCFJ00-NB0564CH0C6I\AppData\Local\Programs\MiKTeX\tex/latex/base\siz
+e12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\$FCFJ00-NB0564CH0C6I\AppData\Local\Programs\MiKTeX\tex/latex/graphics
+\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\$FCFJ00-NB0564CH0C6I\AppData\Local\Programs\MiKTeX\tex/latex/graphics
+\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\$FCFJ00-NB0564CH0C6I\AppData\Local\Programs\MiKTeX\tex/latex/graphics
+\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\$FCFJ00-NB0564CH0C6I\AppData\Local\Programs\MiKTeX\tex/latex/graphics
+\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\$FCFJ00-NB0564CH0C6I\AppData\Local\Programs\MiKTeX\tex/latex/graphics
+-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\$FCFJ00-NB0564CH0C6I\AppData\Local\Programs\MiKTeX\tex/latex/graphics
+-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(C:\Users\$FCFJ00-NB0564CH0C6I\AppData\Local\Programs\MiKTeX\tex/latex/float\fl
+oat.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count193
+\float@exts=\toks17
+\float@box=\box50
+\@float@everytoks=\toks18
+\@floatcapt=\box51
+)
+(C:\Users\$FCFJ00-NB0564CH0C6I\AppData\Local\Programs\MiKTeX\tex/latex/l3backen
+d\l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count194
+\l__pdf_internal_box=\box52
+)
+No file main.aux.
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+
+(C:\Users\$FCFJ00-NB0564CH0C6I\AppData\Local\Programs\MiKTeX\tex/context/base/m
+kii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count195
+\scratchdimen=\dimen141
+\scratchbox=\box53
+\nofMPsegments=\count196
+\nofMParguments=\count197
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count198
+\MPscratchDim=\dimen142
+\MPnumerator=\count199
+\makeMPintoPDFobject=\count266
+\everyMPtoPDFconversion=\toks20
+)
+(C:\Users\$FCFJ00-NB0564CH0C6I\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf
+-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\$FCFJ00-NB0564CH0C6I\AppData\Local\Programs\MiKTeX\tex/latex/00miktex
+\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 8.
+
+
+LaTeX Warning: No \author given.
+
+[1
+
+{C:/Users/$FCFJ00-NB0564CH0C6I/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map
+}]
+
+LaTeX Warning: Reference `fig:espresso' on page 2 undefined on input line 31.
+
+<imgs/expesoguide.png, id=9, 456.20438pt x 360.59718pt>
+File: imgs/expesoguide.png Graphic file (type png)
+<use imgs/expesoguide.png>
+Package pdftex.def Info: imgs/expesoguide.png  used on input line 34.
+(pdftex.def)             Requested size: 378.64952pt x 299.29558pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Reference `fig:block' on page 2 undefined on input line 39.
+
+<imgs/blockd.png, id=10, 350.05782pt x 267.24844pt>
+File: imgs/blockd.png Graphic file (type png)
+<use imgs/blockd.png>
+Package pdftex.def Info: imgs/blockd.png  used on input line 42.
+(pdftex.def)             Requested size: 385.06477pt x 293.97418pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Citation `APM1' on page 2 undefined on input line 49.
+
+[2]
+
+LaTeX Warning: Citation `APM' on page 3 undefined on input line 51.
+
+[3 <./imgs/expesoguide.png>] [4 <./imgs/blockd.png>]
+
+LaTeX Warning: Citation `kanvanize' on page 5 undefined on input line 67.
+
+
+LaTeX Warning: Citation `vhdl' on page 5 undefined on input line 74.
+
+
+LaTeX Warning: Citation `vhdl' on page 5 undefined on input line 74.
+
+
+LaTeX Warning: Citation `fpga' on page 5 undefined on input line 78.
+
+
+LaTeX Warning: Citation `eagle' on page 5 undefined on input line 82.
+
+[5]
+
+LaTeX Warning: Reference `fig:vhdl1' on page 6 undefined on input line 88.
+
+<imgs/vhdl1.png, id=23, 395.22656pt x 412.54124pt>
+File: imgs/vhdl1.png Graphic file (type png)
+<use imgs/vhdl1.png>
+Package pdftex.def Info: imgs/vhdl1.png  used on input line 91.
+(pdftex.def)             Requested size: 304.32538pt x 317.65775pt.
+
+LaTeX Warning: Reference `fig:vhdl2' on page 6 undefined on input line 96.
+
+[6 <./imgs/vhdl1.png>]
+<imgs/vhdl2.png, id=29, 505.13719pt x 559.33969pt>
+File: imgs/vhdl2.png Graphic file (type png)
+<use imgs/vhdl2.png>
+Package pdftex.def Info: imgs/vhdl2.png  used on input line 99.
+(pdftex.def)             Requested size: 388.95683pt x 430.69289pt.
+
+
+LaTeX Warning: Reference `fig:vhdl3' on page 7 undefined on input line 104.
+
+[7 <./imgs/vhdl2.png>]
+<imgs/vhdl3.png, id=35, 467.49657pt x 454.69875pt>
+File: imgs/vhdl3.png Graphic file (type png)
+<use imgs/vhdl3.png>
+Package pdftex.def Info: imgs/vhdl3.png  used on input line 109.
+(pdftex.def)             Requested size: 359.97346pt x 350.11911pt.
+
+
+LaTeX Warning: Reference `fig:tb1' on page 8 undefined on input line 114.
+
+<imgs/tb1.png, id=36, 729.47531pt x 392.96812pt>
+File: imgs/tb1.png Graphic file (type png)
+<use imgs/tb1.png>
+Package pdftex.def Info: imgs/tb1.png  used on input line 117.
+(pdftex.def)             Requested size: 437.68855pt x 235.78268pt.
+
+Overfull \hbox (47.68855pt too wide) in paragraph at lines 117--118
+ [][] 
+ []
+
+[8 <./imgs/vhdl3.png>]
+<imgs/xil1.png, id=41, 453.19313pt x 374.90062pt>
+File: imgs/xil1.png Graphic file (type png)
+<use imgs/xil1.png>
+Package pdftex.def Info: imgs/xil1.png  used on input line 132.
+(pdftex.def)             Requested size: 362.555pt x 299.9209pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Reference `fig:xil1' on page 9 undefined on input line 138.
+
+[9 <./imgs/tb1.png>]
+<imgs/xil2.png, id=46, 339.51843pt x 322.95656pt>
+File: imgs/xil2.png Graphic file (type png)
+<use imgs/xil2.png>
+Package pdftex.def Info: imgs/xil2.png  used on input line 148.
+(pdftex.def)             Requested size: 271.6151pt x 258.36559pt.
+ [10 <./imgs/xil1.png>]
+<imgs/xil3.png, id=50, 535.2497pt x 261.97874pt>
+File: imgs/xil3.png Graphic file (type png)
+<use imgs/xil3.png>
+Package pdftex.def Info: imgs/xil3.png  used on input line 154.
+(pdftex.def)             Requested size: 428.20033pt x 209.58327pt.
+
+Overfull \hbox (38.20033pt too wide) in paragraph at lines 154--155
+ [][] 
+ []
+
+<imgs/xil4.png, id=51, 531.48563pt x 232.61906pt>
+File: imgs/xil4.png Graphic file (type png)
+<use imgs/xil4.png>
+Package pdftex.def Info: imgs/xil4.png  used on input line 160.
+(pdftex.def)             Requested size: 425.18907pt x 186.09549pt.
+
+Overfull \hbox (35.18907pt too wide) in paragraph at lines 160--161
+ [][] 
+ []
+
+[11 <./imgs/xil2.png> <./imgs/xil3.png>]
+<imgs/xil5.png, id=55, 548.80031pt x 295.1025pt>
+File: imgs/xil5.png Graphic file (type png)
+<use imgs/xil5.png>
+Package pdftex.def Info: imgs/xil5.png  used on input line 166.
+(pdftex.def)             Requested size: 384.15758pt x 206.57033pt.
+
+
+LaTeX Warning: Reference `fig:xil6' on page 12 undefined on input line 171.
+
+<imgs/xil6.png, id=56, 283.0575pt x 249.18094pt>
+File: imgs/xil6.png Graphic file (type png)
+<use imgs/xil6.png>
+Package pdftex.def Info: imgs/xil6.png  used on input line 174.
+(pdftex.def)             Requested size: 169.8358pt x 149.5097pt.
+[12 <./imgs/xil4.png> <./imgs/xil5.png>]
+
+LaTeX Warning: Reference `fig:xil8' on page 13 undefined on input line 179.
+
+
+LaTeX Warning: Reference `fig:xil9' on page 13 undefined on input line 179.
+
+
+LaTeX Warning: Reference `fig:xil10' on page 13 undefined on input line 179.
+
+
+LaTeX Warning: Reference `fig:xil11' on page 13 undefined on input line 179.
+
+<imgs/xil7.png, id=60, 391.4625pt x 428.35031pt>
+File: imgs/xil7.png Graphic file (type png)
+<use imgs/xil7.png>
+Package pdftex.def Info: imgs/xil7.png  used on input line 182.
+(pdftex.def)             Requested size: 195.73076pt x 214.17462pt.
+<imgs/xil8.png, id=61, 415.5525pt x 353.82187pt>
+File: imgs/xil8.png Graphic file (type png)
+<use imgs/xil8.png>
+Package pdftex.def Info: imgs/xil8.png  used on input line 188.
+(pdftex.def)             Requested size: 290.88477pt x 247.67361pt.
+[13 <./imgs/xil6.png> <./imgs/xil7.png>]
+<imgs/xil9.png, id=66, 415.5525pt x 290.58563pt>
+File: imgs/xil9.png Graphic file (type png)
+<use imgs/xil9.png>
+Package pdftex.def Info: imgs/xil9.png  used on input line 194.
+(pdftex.def)             Requested size: 290.88477pt x 203.40854pt.
+<imgs/xil10.png, id=67, 501.37312pt x 228.855pt>
+File: imgs/xil10.png Graphic file (type png)
+<use imgs/xil10.png>
+Package pdftex.def Info: imgs/xil10.png  used on input line 200.
+(pdftex.def)             Requested size: 401.09903pt x 183.08423pt.
+
+Overfull \hbox (11.09903pt too wide) in paragraph at lines 200--201
+ [][] 
+ []
+
+[14 <./imgs/xil8.png> <./imgs/xil9.png>]
+<imgs/xil11.png, id=71, 502.87875pt x 221.32687pt>
+File: imgs/xil11.png Graphic file (type png)
+<use imgs/xil11.png>
+Package pdftex.def Info: imgs/xil11.png  used on input line 206.
+(pdftex.def)             Requested size: 402.30354pt x 177.06172pt.
+
+Overfull \hbox (12.30354pt too wide) in paragraph at lines 206--207
+ [][] 
+ []
+
+
+LaTeX Warning: Reference `fig:eagle1' on page 15 undefined on input line 217.
+
+[15 <./imgs/xil10.png> <./imgs/xil11.png>]
+<imgs/Project_Pannel.jpg, id=75, 529.98pt x 478.78876pt>
+File: imgs/Project_Pannel.jpg Graphic file (type jpg)
+<use imgs/Project_Pannel.jpg>
+Package pdftex.def Info: imgs/Project_Pannel.jpg  used on input line 220.
+(pdftex.def)             Requested size: 264.98933pt x 239.39378pt.
+
+
+LaTeX Warning: Reference `fig:eagle2' on page 16 undefined on input line 238.
+
+<imgs/button.jpg, id=76, 242.40562pt x 438.13687pt>
+File: imgs/button.jpg Graphic file (type jpg)
+<use imgs/button.jpg>
+Package pdftex.def Info: imgs/button.jpg  used on input line 241.
+(pdftex.def)             Requested size: 121.2025pt x 219.06789pt.
+[16 <./imgs/Project_Pannel.jpg>]
+
+LaTeX Warning: Reference `fig:eagle3' on page 17 undefined on input line 247.
+
+<imgs/arduinor3.jpg, id=80, 599.841pt x 255.95625pt>
+File: imgs/arduinor3.jpg Graphic file (type jpg)
+<use imgs/arduinor3.jpg>
+Package pdftex.def Info: imgs/arduinor3.jpg  used on input line 250.
+(pdftex.def)             Requested size: 299.91975pt x 127.9778pt.
+
+LaTeX Warning: Reference `fig:eagle4' on page 17 undefined on input line 256.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--257
+
+ []
+
+[17 <./imgs/button.jpg> <./imgs/arduinor3.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+
+ []
+
+<imgs/led.jpg, id=84, 423.08063pt x 404.10976pt>
+File: imgs/led.jpg Graphic file (type jpg)
+<use imgs/led.jpg>
+Package pdftex.def Info: imgs/led.jpg  used on input line 270.
+(pdftex.def)             Requested size: 211.5398pt x 202.05438pt.
+
+LaTeX Warning: Reference `fig:eagle5' on page 18 undefined on input line 275.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--276
+
+ []
+
+[18 <./imgs/led.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 291--292
+
+ []
+
+<imgs/whole.jpg, id=88, 527.571pt x 426.69412pt>
+File: imgs/whole.jpg Graphic file (type jpg)
+<use imgs/whole.jpg>
+Package pdftex.def Info: imgs/whole.jpg  used on input line 308.
+(pdftex.def)             Requested size: 263.78485pt x 213.34653pt.
+
+LaTeX Warning: Reference `fig:eagle6' on page 19 undefined on input line 314.
+
+[19 <./imgs/whole.jpg>]
+<imgs/layout.jpg, id=93, 458.61337pt x 418.56375pt>
+File: imgs/layout.jpg Graphic file (type jpg)
+<use imgs/layout.jpg>
+Package pdftex.def Info: imgs/layout.jpg  used on input line 317.
+(pdftex.def)             Requested size: 229.30612pt x 209.28136pt.
+ [20 <./imgs/layout.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 335--336
+[]\OT1/cmr/m/n/12 APM. (n.d.-b). What is project man-age-ment?
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--339
+[]\OT1/cmr/m/n/12 GitHub. (n.d.). About projects. About Projects.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--339
+\OT1/cmr/m/n/12 https://docs.github.com/en/issues/trying-out-the-new-projects-
+ []
+
+
+Underfull \hbox (badness 4108) in paragraph at lines 344--345
+[]\OT1/cmr/m/n/12 Wikipedia con-trib-u-tors. (2022, Febru-ary 1). EA-GLE (pro-g
+ram).
+ []
+
+[21] (main.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1632 strings out of 478582
+ 28048 string characters out of 2837264
+ 317874 words of memory out of 3000000
+ 19833 multiletter control sequences out of 15000+600000
+ 472633 words of font info for 39 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,7n,62p,864b,308s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\$FCFJ00-NB0564CH0C6I\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen
+/ec/dpi600\tcrm1200.pk><C:/Users/$FCFJ00-NB0564CH0C6I/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/$FCFJ00-NB0564CH0C6I/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users
+/$FCFJ00-NB0564CH0C6I/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmr17.pfb>
+Output written on main.pdf (21 pages, 3278746 bytes).
+PDF statistics:
+ 118 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 116 words of extra memory for PDF output out of 10000 (max. 10000000)
+
