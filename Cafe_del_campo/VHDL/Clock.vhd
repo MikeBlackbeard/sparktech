@@ -1,15 +1,14 @@
 library ieee;
 use ieee.std_logic_1164.all;
 
-entity TB_COFFE_clock is
+entity clock is
     
 end entity;
 
 
-architecture CTB_CLK of TB_COFFE_clock is
+architecture CTB_CLK of clock is
 
-    constant ClockFq : integer := 100e6; --100MHz
-    constant ClockT  : time    := 1000ms / ClockFq;
+    constant ClockT  : time    := 1000 ns;
      
 
     signal clk : std_logic := '1';

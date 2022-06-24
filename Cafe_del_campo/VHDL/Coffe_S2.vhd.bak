@@ -12,15 +12,11 @@ entity Coffe_S2 is
 end entity;
 
 architecture Mix of Coffe_S2 is
-    --component dummy_coffee_Machine is
-	--port (X : in std_logic_vector(5 downto 0);
-	--      Z : out std_logic_vector (3 downto 0));
-   -- end component;
 	
 begin
-    process(A)
+    process(ST1_OUT)
     begin
-    case a is
+    case ST1_OUT is
 	when "0000" => 
 		COFFEE <= "0001";
 		MILK <= "0000";

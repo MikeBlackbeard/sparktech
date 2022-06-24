@@ -28,8 +28,6 @@ architecture C2TB of COFFEE_M_W is
 	  FOAM: out std_logic_vector (3 downto 0));
     end component;
 
-    
-
     begin
 
         CM1: dummy_coffee_Machine port map (UINPUT, ST1_OUT);

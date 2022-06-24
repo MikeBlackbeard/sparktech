@@ -8,6 +8,7 @@ entity COFFEE_M_W is
 	  MILK: out std_logic_vector (3 downto 0);
 	  WATER: out std_logic_vector (3 downto 0);
 	  FOAM: out std_logic_vector (3 downto 0));
+    
 end entity;
 
 architecture C2TB of COFFEE_M_W is

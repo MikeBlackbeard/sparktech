@@ -13,6 +13,7 @@ architecture CTB of COFFE_1_TB is
     signal UINPUT : std_logic_vector(5 downto 0);
     signal ST1_OUT : std_logic_vector (3 downto 0);
 
+
     begin
 
         UUT: dummy_coffee_Machine port map (UINPUT, ST1_OUT);

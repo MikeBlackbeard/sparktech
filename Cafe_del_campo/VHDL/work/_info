@@ -9,350 +9,481 @@ z2
 !i10f 100
 cModel Technology
 dC:/intelFPGA_pro/21.1
+Ealu4bit
+Z0 w1656073240
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 568
+Z5 dC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim
+Z6 8C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/ALU.vhd
+Z7 FC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/ALU.vhd
+l0
+L7 1
+V]63`R^HehU]`2S=QLTEZL0
+!s100 :4dADI02O;igbJOVzPjjG0
+Z8 OV;C;2021.1;73
+32
+Z9 !s110 1656073245
+!i10b 1
+Z10 !s108 1656073244.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/ALU.vhd|
+Z12 !s107 C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/ALU.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Abehavioral
+R1
+R2
+R3
+R4
+DEx4 work 7 alu4bit 0 22 ]63`R^HehU]`2S=QLTEZL0
+!i122 568
+l18
+L16 62
+V3A7lbE@X@TW`V4EP_L_Y]2
+!s100 N0o`><^Eh1fT11NRB;8>z0
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ealululu_tb
+Z15 w1656073844
+R1
+R2
+R3
+R4
+!i122 574
+R5
+Z16 8C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/ALU_TB.vhd
+Z17 FC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/ALU_TB.vhd
+l0
+L6 1
+VI]2LZ1mbK:=0Lg0:H7<=K3
+!s100 2a6Qj0fdRi>8fVm_m]PZF2
+R8
+32
+Z18 !s110 1656073847
+!i10b 1
+Z19 !s108 1656073847.000000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/ALU_TB.vhd|
+Z21 !s107 C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/ALU_TB.vhd|
+!i113 1
+R13
+R14
+Actb
+R1
+R2
+R3
+R4
+Z22 DEx4 work 10 alululu_tb 0 22 I]2LZ1mbK:=0Lg0:H7<=K3
+!i122 574
+l27
+L10 34
+V>[hYU3ki0z4G=>mZQ>:P>0
+!s100 I3W11ZB?;fRC2k<RRRYC71
+R8
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R13
+R14
 Ebcd
-Z0 w1652361690
-Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
-Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+Z23 w1652361690
+R3
+R4
 !i122 232
-Z3 dC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim
-Z4 8C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/BCD.vhd
-Z5 FC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/BCD.vhd
+R5
+Z24 8C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/BCD.vhd
+Z25 FC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/BCD.vhd
 l0
 L4 1
 V^CNkG5kU=keTB;[<TObF80
 !s100 =4Lck[4JenQj[Sn1FP`323
-Z6 OV;C;2021.1;73
+R8
 32
-Z7 !s110 1652362631
+Z26 !s110 1652362631
 !i10b 1
-Z8 !s108 1652362631.000000
-Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/BCD.vhd|
-Z10 !s107 C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/BCD.vhd|
+Z27 !s108 1652362631.000000
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/BCD.vhd|
+Z29 !s107 C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/BCD.vhd|
 !i113 1
-Z11 o-work work -2002 -explicit
-Z12 tExplicit 1 CvgOpt 0
+R13
+R14
 Acounter
-R1
-R2
+R3
+R4
 DEx4 work 3 bcd 0 22 ^CNkG5kU=keTB;[<TObF80
 !i122 232
 l10
-Z13 L9 19
+L9 19
 V:VWcTD`<Yigm^3@2@eJ<^1
 !s100 :ME`=QPNm0]iWIHe1Nfg40
-R6
-32
-R7
-!i10b 1
 R8
-R9
-R10
+32
+R26
+!i10b 1
+R27
+R28
+R29
 !i113 1
-R11
-R12
+R13
+R14
 Ebcd_test_bench
-Z14 w1652362627
-R1
-R2
-!i122 233
+Z30 w1652362627
 R3
-Z15 8C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/BCD_test.vhd
-Z16 FC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/BCD_test.vhd
+R4
+!i122 233
+R5
+Z31 8C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/BCD_test.vhd
+Z32 FC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/BCD_test.vhd
 l0
 L4 1
 V2N?`I>^Hj?YazVQVL?@BG2
 !s100 M4jCAdXi[c2hJ1e:IJ@V_0
-R6
-32
-Z17 !s110 1652362632
-!i10b 1
 R8
-Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/BCD_test.vhd|
-Z19 !s107 C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/BCD_test.vhd|
+32
+Z33 !s110 1652362632
+!i10b 1
+R27
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/BCD_test.vhd|
+Z35 !s107 C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/BCD_test.vhd|
 !i113 1
-R11
-R12
+R13
+R14
 Abcd_tb
-R1
-R2
+R3
+R4
 DEx4 work 14 bcd_test_bench 0 22 2N?`I>^Hj?YazVQVL?@BG2
 !i122 233
 l15
 L8 14
 V5Y]hPYGdd[6[Bd>]mY<c40
 !s100 iMPT@^_N>:jj>`?MLjAYi0
-R6
-32
-R17
-!i10b 1
 R8
-R18
-R19
+32
+R33
+!i10b 1
+R27
+R34
+R35
 !i113 1
-R11
-R12
-Ecoffe_1_tb
-Z20 w1655805803
-R1
-R2
-!i122 416
+R13
+R14
+Eclock
+Z36 w1655830105
 R3
-Z21 8C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/coffe_1_tb.vhd
-Z22 FC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/coffe_1_tb.vhd
+R4
+!i122 566
+R5
+Z37 8C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Clock.vhd
+Z38 FC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Clock.vhd
+l0
+L4 1
+VGIzje_Fze_N6@Y6Dza6i90
+!s100 FmJenE9=Qfd9A>Q?Zh9<71
+R8
+32
+Z39 !s110 1655935333
+!i10b 1
+Z40 !s108 1655935333.000000
+Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Clock.vhd|
+Z42 !s107 C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Clock.vhd|
+!i113 1
+R13
+R14
+Actb_clk
+R3
+R4
+DEx4 work 5 clock 0 22 GIzje_Fze_N6@Y6Dza6i90
+!i122 566
+l16
+Z43 L9 12
+VkVAHGNg2obB]<TWf4Fc;I1
+!s100 <eWKeailZ]8z9]ah3DknH3
+R8
+32
+R39
+!i10b 1
+R40
+R41
+R42
+!i113 1
+R13
+R14
+Ecoffe_1_tb
+Z44 w1655925675
+R3
+R4
+!i122 561
+R5
+Z45 8C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/coffe_1_tb.vhd
+Z46 FC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/coffe_1_tb.vhd
 l0
 L4 1
 VcKjT43R:[=FIHjDKg<k<f0
 !s100 0hcXe7U`Ef?ehU?hGVe>z3
-R6
+R8
 32
-Z23 !s110 1655807051
+R39
 !i10b 1
-Z24 !s108 1655807051.000000
-Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/coffe_1_tb.vhd|
-Z26 !s107 C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/coffe_1_tb.vhd|
+R40
+Z47 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/coffe_1_tb.vhd|
+Z48 !s107 C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/coffe_1_tb.vhd|
 !i113 1
-R11
-R12
+R13
+R14
 Actb
-R1
-R2
-DEx4 work 10 coffe_1_tb 0 22 cKjT43R:[=FIHjDKg<k<f0
-!i122 416
-l16
-L8 18
-V4Y6DK;P49d[ZSJe7@d?:92
-!s100 3`]AJmDkeghi6j<?<UMfJ0
-R6
-32
-R23
-!i10b 1
-R24
-R25
-R26
-!i113 1
-R11
-R12
-Ecoffe_s2
-Z27 w1655806047
-R1
-R2
-!i122 408
 R3
-Z28 8C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Coffe_S2.vhd
-Z29 FC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Coffe_S2.vhd
+R4
+DEx4 work 10 coffe_1_tb 0 22 cKjT43R:[=FIHjDKg<k<f0
+!i122 561
+l17
+L8 19
+VndkDKX4Ki@lPDndXi_;<B1
+!s100 Y5G3>09Ldh^TPPJ;Wjh[Y0
+R8
+32
+R39
+!i10b 1
+R40
+R47
+R48
+!i113 1
+R13
+R14
+Ecoffe_s2
+Z49 w1655827312
+R3
+R4
+!i122 560
+R5
+Z50 8C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Coffe_S2.vhd
+Z51 FC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Coffe_S2.vhd
 l0
 L4 1
 VXH^beC@giT<eaLVHfU_>J2
 !s100 0ZR_>R=[eW1J>6E>@zODM0
-R6
+R8
 32
-Z30 !s110 1655806054
+R39
 !i10b 1
-Z31 !s108 1655806053.000000
-Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Coffe_S2.vhd|
-Z33 !s107 C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Coffe_S2.vhd|
+R40
+Z52 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Coffe_S2.vhd|
+Z53 !s107 C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Coffe_S2.vhd|
 !i113 1
-R11
-R12
+R13
+R14
 Amix
-R1
-R2
-DEx4 work 8 coffe_s2 0 22 XH^beC@giT<eaLVHfU_>J2
-!i122 408
-l20
-L14 90
-V?P0mAXmK_F=BI70mJ;8g41
-!s100 V;`iI_:n^[@XIeeXg5gP21
-R6
-32
-R30
-!i10b 1
-R31
-R32
-R33
-!i113 1
-R11
-R12
-Ecoffe_s2_tb
-Z34 w1655806097
-R1
-R2
-!i122 409
 R3
-Z35 8C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/coffe_s2_tb.vhd
-Z36 FC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/coffe_s2_tb.vhd
+R4
+DEx4 work 8 coffe_s2 0 22 XH^beC@giT<eaLVHfU_>J2
+!i122 560
+l16
+L14 86
+VPHjDF8Y2@GWFOWMW???U62
+!s100 4Kn69:oZPKjfk_:<eniZ@1
+R8
+32
+R39
+!i10b 1
+R40
+R52
+R53
+!i113 1
+R13
+R14
+Ecoffe_s2_tb
+Z54 w1655830558
+R3
+R4
+!i122 562
+R5
+Z55 8C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/coffe_s2_tb.vhd
+Z56 FC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/coffe_s2_tb.vhd
 l0
 L4 1
 V4]4:G6c_i`e^V4l6kIER^0
 !s100 Vd9EX[Ylo5?e:n6>L`>QK2
-R6
+R8
 32
-Z37 !s110 1655806101
+R39
 !i10b 1
-Z38 !s108 1655806101.000000
-Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/coffe_s2_tb.vhd|
-Z40 !s107 C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/coffe_s2_tb.vhd|
+R40
+Z57 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/coffe_s2_tb.vhd|
+Z58 !s107 C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/coffe_s2_tb.vhd|
 !i113 1
-R11
-R12
+R13
+R14
 Ac2tb
-R1
-R2
+R3
+R4
 DEx4 work 11 coffe_s2_tb 0 22 4]4:G6c_i`e^V4l6kIER^0
-!i122 409
+!i122 562
 l24
 L8 25
-VW6O0ID2QBDi`?Vo6ARV5G1
-!s100 JS_HVkNT4iZz@3b03k9e92
-R6
+V=^3VTg>obd=U[8ECI`d5c3
+!s100 fl4N3RXPVA`c]DNV>74HV2
+R8
 32
-R37
-!i10b 1
-R38
 R39
+!i10b 1
 R40
+R57
+R58
 !i113 1
-R11
-R12
-Ecoffee_m_w
-Z41 w1655807472
-R1
-R2
-!i122 421
-R3
-Z42 8C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Coffee_Machine_Whole.vhd
-Z43 FC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Coffee_Machine_Whole.vhd
-l0
-L4 1
-VMiWR5?@0>1VZNK2Q0bbR31
-!s100 658B<Z=3M9:B5W;KFMY=;1
-R6
-32
-Z44 !s110 1655807477
-!i10b 1
-Z45 !s108 1655807477.000000
-Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Coffee_Machine_Whole.vhd|
-Z47 !s107 C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Coffee_Machine_Whole.vhd|
-!i113 1
-R11
-R12
-Ac2tb
-R1
-R2
-DEx4 work 10 coffee_m_w 0 22 MiWR5?@0>1VZNK2Q0bbR31
-!i122 421
-l33
-L13 26
-VI_Yog3i4C65ldkU^d`5`>2
-!s100 zAVN<R[]fdIGQ169Pkz]H0
-R6
-32
-R44
-!i10b 1
-R45
-R46
-R47
-!i113 1
-R11
-R12
-Edummy_coffee_machine
-Z48 w1655805719
-R1
-R2
-!i122 405
-R3
-Z49 8C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Coffee_Machine_S1.vhd
-Z50 FC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Coffee_Machine_S1.vhd
-l0
-L4 1
-VO^Yz]KC5bn>@E905zb;7a1
-!s100 C<kz;nog7XnXzC4OLdZTU1
-R6
-32
-Z51 !s110 1655805722
-!i10b 1
-Z52 !s108 1655805722.000000
-Z53 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Coffee_Machine_S1.vhd|
-Z54 !s107 C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Coffee_Machine_S1.vhd|
-!i113 1
-R11
-R12
-Ainput
-R1
-R2
-DEx4 work 20 dummy_coffee_machine 0 22 O^Yz]KC5bn>@E905zb;7a1
-!i122 405
-l10
 R13
-Vf;ZfSQP4L^?ALfSmF74S]0
-!s100 zFHTFf`<F4GAkaeJn5Wb00
-R6
-32
-R51
-!i10b 1
-R52
-R53
-R54
-!i113 1
-R11
-R12
-Efull_adder
-Z55 w1651758370
-!i122 229
+R14
+Ecoffee_m_w
+Z59 w1655831353
 R3
-Z56 8C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Full_adder.vhd
-Z57 FC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Full_adder.vhd
+R4
+!i122 564
+R5
+Z60 8C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Coffee_Machine_Whole.vhd
+Z61 FC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Coffee_Machine_Whole.vhd
+l0
+L4 1
+VV;OlW_IY4f5_Oa[hA_TcW3
+!s100 EGa6cKPAjWdBRXSZ^[Gi81
+R8
+32
+R39
+!i10b 1
+R40
+Z62 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Coffee_Machine_Whole.vhd|
+Z63 !s107 C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Coffee_Machine_Whole.vhd|
+!i113 1
+R13
+R14
+Ac2tb
+R3
+R4
+DEx4 work 10 coffee_m_w 0 22 V;OlW_IY4f5_Oa[hA_TcW3
+!i122 564
+l32
+L14 24
+VG8d[b9lG;2W?0Z^ZMOlR33
+!s100 L<mEdz?QoQmo:CfPKJ2[[1
+R8
+32
+R39
+!i10b 1
+R40
+R62
+R63
+!i113 1
+R13
+R14
+Edummy_coffee_machine
+Z64 w1655976475
+R3
+R4
+!i122 567
+R5
+Z65 8C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Coffee_Machine_S1.vhd
+Z66 FC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Coffee_Machine_S1.vhd
+l0
+L4 1
+VGKDJ=YQVYmdzU6iIT=lRV3
+!s100 IDBzIH<do[KE=^FhS=47N1
+R8
+32
+Z67 !s110 1655976497
+!i10b 1
+Z68 !s108 1655976497.000000
+Z69 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Coffee_Machine_S1.vhd|
+Z70 !s107 C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Coffee_Machine_S1.vhd|
+!i113 1
+R13
+R14
+Ainput
+R3
+R4
+DEx4 work 20 dummy_coffee_machine 0 22 GKDJ=YQVYmdzU6iIT=lRV3
+!i122 567
+l13
+L11 25
+VaUXLNPedFb^b?F4[1[^W:1
+!s100 <bbU1>[MCBLTW733:lWKP3
+R8
+32
+R67
+!i10b 1
+R68
+R69
+R70
+!i113 1
+R13
+R14
+Efull_adder
+Z71 w1651758370
+!i122 229
+R5
+Z72 8C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Full_adder.vhd
+Z73 FC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Full_adder.vhd
 l0
 L1 1
 VdzJDQfaHLL8zE4O]GL8k=3
 !s100 9_RUo08n=<CKB_O1>c_eH3
-R6
-32
-R7
-!i10b 1
 R8
-Z58 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Full_adder.vhd|
-Z59 !s107 C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Full_adder.vhd|
+32
+R26
+!i10b 1
+R27
+Z74 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Full_adder.vhd|
+Z75 !s107 C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Full_adder.vhd|
 !i113 1
-R11
-R12
+R13
+R14
 Aone_bit_full_adder
 DEx4 work 10 full_adder 0 22 dzJDQfaHLL8zE4O]GL8k=3
 !i122 229
 l15
-Z60 L7 18
+Z76 L7 18
 VJFEkjBz1`;IcmBKbI6NN03
 !s100 Zz=zThXi84EF1iB^ij>2^0
-R6
-32
-R7
-!i10b 1
 R8
-R58
-R59
+32
+R26
+!i10b 1
+R27
+R74
+R75
 !i113 1
-R11
-R12
+R13
+R14
 Efull_adder_ok_test
-Z61 w1651759080
+Z77 w1651759080
 !i122 230
-R3
-Z62 8C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/full_test.vhd
-Z63 FC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/full_test.vhd
+R5
+Z78 8C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/full_test.vhd
+Z79 FC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/full_test.vhd
 l0
 L1 1
 V`BK]d]GR8zMNZYz^D1h4k2
 !s100 g9OgU@Zh?J7YUBlOHT1R92
-R6
-32
-R7
-!i10b 1
 R8
-Z64 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/full_test.vhd|
-Z65 !s107 C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/full_test.vhd|
+32
+R26
+!i10b 1
+R27
+Z80 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/full_test.vhd|
+Z81 !s107 C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/full_test.vhd|
 !i113 1
-R11
-R12
+R13
+R14
 Atb
 DEx4 work 18 full_adder_ok_test 0 22 `BK]d]GR8zMNZYz^D1h4k2
 !i122 230
@@ -360,73 +491,73 @@ l11
 L5 14
 VzQUbK@7^@O[ommIk48^:R0
 !s100 STo@KMzbeo2EPlW0F2jBS3
-R6
-32
-R7
-!i10b 1
 R8
-R64
-R65
+32
+R26
+!i10b 1
+R27
+R80
+R81
 !i113 1
-R11
-R12
+R13
+R14
 Efull_adder_test_bench
-Z66 w1651756895
+Z82 w1651756895
 !i122 73
-R3
-R56
-R57
+R5
+R72
+R73
 l0
 L1 1
 VgYSXcT>YQ[6VZE24c_b]e3
 !s100 aXL:JlYmcKI;Lm^KYh?c70
-R6
+R8
 32
-Z67 !s110 1651756900
+Z83 !s110 1651756900
 !i10b 1
-Z68 !s108 1651756900.000000
-R58
-R59
+Z84 !s108 1651756900.000000
+R74
+R75
 !i113 1
-R11
-R12
+R13
+R14
 Aone_bit_full_adder
 DEx4 work 21 full_adder_test_bench 0 22 gYSXcT>YQ[6VZE24c_b]e3
 !i122 73
 l15
-R60
+R76
 V;kU8ezgVL@P;JU0N>9Egc0
 !s100 h169To1jJR[dfoe7??iS23
-R6
+R8
 32
-R67
+R83
 !i10b 1
-R68
-R58
-R59
+R84
+R74
+R75
 !i113 1
-R11
-R12
+R13
+R14
 Ehalf_adder
-Z69 w1651150470
+Z85 w1651150470
 !i122 227
-R3
-Z70 8C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Half_adder.vhd
-Z71 FC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Half_adder.vhd
+R5
+Z86 8C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Half_adder.vhd
+Z87 FC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Half_adder.vhd
 l0
 L1 1
 V3^NIP?j;`aQ<B2geE2l6a0
 !s100 Il^VDh7?nlgd03STf8E[91
-R6
+R8
 32
-R7
+R26
 !i10b 1
-Z72 !s108 1652362630.000000
-Z73 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Half_adder.vhd|
-Z74 !s107 C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Half_adder.vhd|
+Z88 !s108 1652362630.000000
+Z89 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Half_adder.vhd|
+Z90 !s107 C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Half_adder.vhd|
 !i113 1
-R11
-R12
+R13
+R14
 Aha
 DEx4 work 10 half_adder 0 22 3^NIP?j;`aQ<B2geE2l6a0
 !i122 227
@@ -434,36 +565,36 @@ l7
 L6 5
 V?[Lm1L2e;X<o4e`hGM16c2
 !s100 102>5Ye:KQ5`=nST:nO]m3
-R6
+R8
 32
-R7
+R26
 !i10b 1
-R72
-R73
-R74
+R88
+R89
+R90
 !i113 1
-R11
-R12
+R13
+R14
 Ehalf_adder_test_bench
-Z75 w1651153338
+Z91 w1651153338
 !i122 228
-R3
-Z76 8C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/test_bench.vhd
-Z77 FC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/test_bench.vhd
+R5
+Z92 8C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/test_bench.vhd
+Z93 FC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/test_bench.vhd
 l0
 L1 1
 V=kcBI0C9<<`4a;EbeMOb_3
 !s100 b=8M[iP<kFm^F;6OS8V>j3
-R6
-32
-R7
-!i10b 1
 R8
-Z78 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/test_bench.vhd|
-Z79 !s107 C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/test_bench.vhd|
+32
+R26
+!i10b 1
+R27
+Z94 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/test_bench.vhd|
+Z95 !s107 C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/test_bench.vhd|
 !i113 1
-R11
-R12
+R13
+R14
 Atb
 DEx4 work 21 half_adder_test_bench 0 22 =kcBI0C9<<`4a;EbeMOb_3
 !i122 228
@@ -471,36 +602,36 @@ l11
 L5 13
 V3T3URLE75Vl@1LNfSIY_E2
 !s100 5SBldkiO7VfJNzjTCHgIR0
-R6
-32
-R7
-!i10b 1
 R8
-R78
-R79
+32
+R26
+!i10b 1
+R27
+R94
+R95
 !i113 1
-R11
-R12
+R13
+R14
 Eripple
-Z80 w1651762837
+Z96 w1651762837
 !i122 231
-R3
-Z81 8C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/cary_ripple.vhd
-Z82 FC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/cary_ripple.vhd
+R5
+Z97 8C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/cary_ripple.vhd
+Z98 FC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/cary_ripple.vhd
 l0
 L1 1
 ViIVnkJ2kCG;@hOa<g@>982
 !s100 Mg1g0>[dJYE:Jd8Vk737V3
-R6
-32
-R7
-!i10b 1
 R8
-Z83 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/cary_ripple.vhd|
-Z84 !s107 C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/cary_ripple.vhd|
+32
+R26
+!i10b 1
+R27
+Z99 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/cary_ripple.vhd|
+Z100 !s107 C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/cary_ripple.vhd|
 !i113 1
-R11
-R12
+R13
+R14
 Aone_bit_full_adder
 DEx4 work 6 ripple 0 22 iIVnkJ2kCG;@hOa<g@>982
 !i122 231
@@ -508,118 +639,118 @@ l15
 L7 20
 VTE=34]ca0mVGfCXdo8Dj61
 !s100 WMoTFBYDoQY>ZPF`QE70[1
-R6
-32
-R7
-!i10b 1
 R8
-R83
-R84
+32
+R26
+!i10b 1
+R27
+R99
+R100
 !i113 1
-R11
-R12
+R13
+R14
 Etb_coffe_clock
-Z85 w1655819126
-R1
-R2
-!i122 426
+Z101 w1655827960
 R3
-Z86 8C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Clock.vhd
-Z87 FC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Clock.vhd
+R4
+!i122 473
+R5
+R37
+R38
 l0
 L4 1
 V82PcE4P`9AIB`z]emX8[m3
 !s100 Q7zQ@z?_18^NTMPfa`d511
-R6
+R8
 32
-Z88 !s110 1655819130
+Z102 !s110 1655830027
 !i10b 1
-Z89 !s108 1655819129.000000
-Z90 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Clock.vhd|
-!s107 C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Clock.vhd|
+Z103 !s108 1655830027.000000
+R41
+R42
 !i113 1
-R11
-R12
+R13
+R14
 Actb_clk
-R1
-R2
-DEx4 work 14 tb_coffe_clock 0 22 82PcE4P`9AIB`z]emX8[m3
-!i122 426
-l17
-L9 13
-VFc[W4YT2A:YCYkZ7bGOG:0
-!s100 cFJ5h>JQ@iUGn0oE<QiZ`3
-R6
-32
-R88
-!i10b 1
-R89
-R90
-Z91 !s107 C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/Clock.vhd|
-!i113 1
-R11
-R12
-Etb_coffe_woc
-Z92 w1655805533
-R1
-R2
-!i122 422
 R3
-Z93 8C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/TB_Coffe_Whole_wo_coin.vhd
-Z94 FC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/TB_Coffe_Whole_wo_coin.vhd
+R4
+DEx4 work 14 tb_coffe_clock 0 22 82PcE4P`9AIB`z]emX8[m3
+!i122 473
+l16
+R43
+VBdknXk^jBf9LO[IOYOAJI1
+!s100 =h[mJhZeC9^mQ;W_G`el91
+R8
+32
+R102
+!i10b 1
+R103
+R41
+R42
+!i113 1
+R13
+R14
+Etb_coffe_woc
+Z104 w1655805533
+R3
+R4
+!i122 565
+R5
+Z105 8C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/TB_Coffe_Whole_wo_coin.vhd
+Z106 FC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/TB_Coffe_Whole_wo_coin.vhd
 l0
 L4 1
 VFa`>8jkWQUI:b4<5L_JVR3
 !s100 bg2aOag07m5KQg0[Neh<22
-R6
+R8
 32
-Z95 !s110 1655807580
+R39
 !i10b 1
-Z96 !s108 1655807580.000000
-Z97 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/TB_Coffe_Whole_wo_coin.vhd|
-Z98 !s107 C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/TB_Coffe_Whole_wo_coin.vhd|
+R40
+Z107 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/TB_Coffe_Whole_wo_coin.vhd|
+Z108 !s107 C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/TB_Coffe_Whole_wo_coin.vhd|
 !i113 1
-R11
-R12
+R13
+R14
 Actb
-R1
-R2
+R3
+R4
 DEx4 work 12 tb_coffe_woc 0 22 Fa`>8jkWQUI:b4<5L_JVR3
-!i122 422
+!i122 565
 l24
 L9 25
 VNOfJC0LlLCgQmljzD:DVR2
 !s100 LcRXD4jhjSZMHaoHG=PYh3
-R6
+R8
 32
-R95
+R39
 !i10b 1
-R96
-R97
-R98
+R40
+R107
+R108
 !i113 1
-R11
-R12
+R13
+R14
 Exorgatter
-Z99 w1649271261
+Z109 w1649271261
 !i122 1
-R3
-Z100 8C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/xor.vhd
-Z101 FC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/xor.vhd
+R5
+Z110 8C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/xor.vhd
+Z111 FC:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/xor.vhd
 l0
 L1 1
 V5=FmEdli?z;g_98gJ2SKo3
 !s100 l7elM_jfGMXG7F?nSh_N40
-R6
+R8
 32
-Z102 !s110 1649271451
+Z112 !s110 1649271451
 !i10b 1
-Z103 !s108 1649271451.000000
-Z104 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/xor.vhd|
-Z105 !s107 C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/xor.vhd|
+Z113 !s108 1649271451.000000
+Z114 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/xor.vhd|
+Z115 !s107 C:/Users/-NB0564CH0C6I/Documents/hshl/ModelSim/xor.vhd|
 !i113 1
-R11
-R12
+R13
+R14
 Adata
 DEx4 work 9 xorgatter 0 22 5=FmEdli?z;g_98gJ2SKo3
 !i122 1
@@ -627,13 +758,13 @@ l7
 L6 4
 V[O_6>47gkPFY]bFCYm?TQ0
 !s100 jd_b1Dn1P4U[6T<1;666m3
-R6
+R8
 32
-R102
+R112
 !i10b 1
-R103
-R104
-R105
+R113
+R114
+R115
 !i113 1
-R11
-R12
+R13
+R14

@@ -25,7 +25,7 @@ architecture C2TB of COFFE_S2_TB is
 
         UUT: Coffe_S2 port map (ST1_OUT, COFFEE=>COFFEE, SUGAR=>SUGAR, MILK=>MILK, WATER=>WATER, FOAM=>FOAM);
 
-	ST1_OUT <= "0000", "0001" after 100 ns, "0010" after 200 ns, "0011" after 300 ns, "0100" after 400 ns, "0101" after 500 ns,
+	ST1_OUT <= "0000", "0001" after 80 ns, "0010" after 120 ns, "0011" after 300 ns, "0100" after 400 ns, "0101" after 500 ns,
              "0110" after 600 ns, "0111" after 700 ns, "1000" after 800 ns, "1001" after 900 ns;
 
 

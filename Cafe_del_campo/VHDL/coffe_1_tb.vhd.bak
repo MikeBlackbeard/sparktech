@@ -17,7 +17,7 @@ architecture CTB of COFFE_1_TB is
 
         UUT: dummy_coffee_Machine port map (UINPUT, ST1_OUT);
 
-	X <= "100000", "010000" after 100ns, "001000" after 200ns,  "000100" after 300ns,   "000010" after 400ns, 
+	UINPUT <= "100000", "010000" after 100ns, "001000" after 200ns,  "000100" after 300ns,   "000010" after 400ns, 
              "100001" after 500ns, "010001" after 600ns,  "001001" after 700ns,  "000101" after 800ns,   "000011" after 900ns,
 	     "110001" after 1000ns, "101010" after 1100ns, "101100" after 1200ns;
 
