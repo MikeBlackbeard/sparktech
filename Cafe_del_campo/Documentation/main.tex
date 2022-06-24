@@ -26,9 +26,9 @@ During the Hardware Engineering Lab we are going to Design and build a prototype
 
 \section{Concept Description}
 
-A Coffee machine that provides coffees with high quality coffee. According to the type of coffee, the ratio of water, coffee powder, milk or sugar is adjusted. To acquire the desired coffee, press a number for type and another for whether sugar is added. The output will then be water, coffee powder, milk and sugar if selected.
+A Coffee machine that provides coffees with high quality coffee. According to the type of coffee, the ratio of water, coffee powder, milk or sugar is adjusted. To acquire the desired coffee, press a number for coffee type and another for whether sugar is added. The output will then be water, coffee powder, milk and sugar if selected.
 
-In Figure \ref{fig:espresso} we have a guide on how are the different combinations of coffee, streamed milk, foamed milk, water and chocolate, depending on the type of coffee that the user can possibly select
+In Figure \ref{fig:espresso} we have a guide on the different combinations of coffee, streamed milk, foamed milk, water and chocolate, depending on the type of coffee that the user can possibly select
 
 \begin{figure}[!h]
 \includegraphics[scale=0.83]{imgs/expesoguide.png}
@@ -36,7 +36,7 @@ In Figure \ref{fig:espresso} we have a guide on how are the different combinatio
 \label{fig:espresso}
 \end{figure}
 
-The block diagram of the coffee machine is described on Figure \ref{fig:block}. There will be two inputs at the beginning of the project: coffee number and sugar selection, there will be a clock or timer that will determinate the amount of time that the different ingredients will be pouring into the cup and on the right side four initial outputs, coffee, water, milk and sugar. Depending on the time and the complexity of the task there are two extra components that can be added, the cash input and the cash change.
+The block diagram of the coffee machine is described on Figure \ref{fig:block}. There will be two inputs at the beginning of the project: coffee number and sugar selection, there will be a clock or timer that will determinate when the different ingredients will be poured into the cup and on the right side, there are four outputs, coffee, water, foamed milk and streamed milk and sugar. Depending on the time and the complexity of the task there are two extra components that can be added, the cash input and the cash change.
 
 \begin{figure}[h]
 \includegraphics[scale=1.1]{imgs/blockd.png}
@@ -85,7 +85,14 @@ Eagle: According to \cite{eagle} Eagle is an electronic design automation applic
 
 \subsection{VHDL}
 
-The VHDL code in out project is divided in three parts. The first one will take the input of the user, input is given by 6 options, Espresso, Americano, Cappucino, Late, Macchiato and sugar. Moreover, it takes input of a clock to synchronize the system. The first module will take the user input and will organize it in a simple four-bit vector and will output it. This output will be the input of the second module. Figure \ref{fig:vhdl1}.
+The VHDL code in out project is divided in three parts. The first one will take the input from the user, input is given by 6 options the first five stand respectively for Espresso, Americano, Cappucino, Late, Macchiato and the last one represents sugar. Moreover, it takes input of a clock to synchronize the system. The first module will take the user input and will organize it into a simple four-bit vector for the ten types of coffees and then outputs it. This output will be the input of the second module. Figures \ref{fig:table1} and \ref{fig:vhdl1}.
+
+
+\begin{figure}[H]
+\centering{ \includegraphics[scale=0.72]{imgs/table1}}
+\caption{Coffee options}
+\label{fig:table1}
+\end{figure}
 
 \begin{figure}[H]
 \centering{ \includegraphics[scale=0.77]{imgs/vhdl1}}
