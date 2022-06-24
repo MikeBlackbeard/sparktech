@@ -1,0 +1,332 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.10)  24 JUN 2022 16:33
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./main.tex
+(main.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24>
+(C:\Users\$FCFJ00-NB0564CH0C6I\AppData\Local\Programs\MiKTeX\tex/latex/base\art
+icle.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+
+(C:\Users\$FCFJ00-NB0564CH0C6I\AppData\Local\Programs\MiKTeX\tex/latex/base\siz
+e12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\$FCFJ00-NB0564CH0C6I\AppData\Local\Programs\MiKTeX\tex/latex/graphics
+\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\$FCFJ00-NB0564CH0C6I\AppData\Local\Programs\MiKTeX\tex/latex/graphics
+\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\$FCFJ00-NB0564CH0C6I\AppData\Local\Programs\MiKTeX\tex/latex/graphics
+\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\$FCFJ00-NB0564CH0C6I\AppData\Local\Programs\MiKTeX\tex/latex/graphics
+\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\$FCFJ00-NB0564CH0C6I\AppData\Local\Programs\MiKTeX\tex/latex/graphics
+-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\$FCFJ00-NB0564CH0C6I\AppData\Local\Programs\MiKTeX\tex/latex/graphics
+-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(C:\Users\$FCFJ00-NB0564CH0C6I\AppData\Local\Programs\MiKTeX\tex/latex/caption\
+subcaption.sty
+Package: subcaption 2022/01/07 v1.5 Sub-captions (AR)
+
+(C:\Users\$FCFJ00-NB0564CH0C6I\AppData\Local\Programs\MiKTeX\tex/latex/caption\
+caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+
+(C:\Users\$FCFJ00-NB0564CH0C6I\AppData\Local\Programs\MiKTeX\tex/latex/caption\
+caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen141
+\captionmargin=\dimen142
+\caption@leftmargin=\dimen143
+\caption@rightmargin=\dimen144
+\caption@width=\dimen145
+\caption@indent=\dimen146
+\caption@parindent=\dimen147
+\caption@hangindent=\dimen148
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count193
+\c@continuedfloat=\count194
+)
+\c@subfigure=\count195
+\c@subtable=\count196
+)
+(C:\Users\$FCFJ00-NB0564CH0C6I\AppData\Local\Programs\MiKTeX\tex/latex/l3backen
+d\l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count197
+\l__pdf_internal_box=\box50
+)
+No file main.aux.
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+
+(C:\Users\$FCFJ00-NB0564CH0C6I\AppData\Local\Programs\MiKTeX\tex/context/base/m
+kii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count198
+\scratchdimen=\dimen149
+\scratchbox=\box51
+\nofMPsegments=\count199
+\nofMParguments=\count266
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count267
+\MPscratchDim=\dimen150
+\MPnumerator=\count268
+\makeMPintoPDFobject=\count269
+\everyMPtoPDFconversion=\toks18
+)
+(C:\Users\$FCFJ00-NB0564CH0C6I\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf
+-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\$FCFJ00-NB0564CH0C6I\AppData\Local\Programs\MiKTeX\tex/latex/00miktex
+\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 8.
+
+
+LaTeX Warning: No \author given.
+
+[1
+
+{C:/Users/$FCFJ00-NB0564CH0C6I/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map
+}]
+<img/block_diagram.png, id=9, 661.72218pt x 339.51843pt>
+File: img/block_diagram.png Graphic file (type png)
+<use img/block_diagram.png>
+Package pdftex.def Info: img/block_diagram.png  used on input line 30.
+(pdftex.def)             Requested size: 397.03638pt x 203.71262pt.
+
+Overfull \hbox (7.03638pt too wide) in paragraph at lines 30--31
+[][] 
+ []
+
+
+LaTeX Warning: Reference `fig::bd' on page 2 undefined on input line 35.
+
+[2 <./img/block_diagram.png>]
+
+LaTeX Warning: Reference `fig::broker' on page 3 undefined on input line 37.
+
+<img/mosquitto1.png, id=15, 380.92313pt x 251.43938pt>
+File: img/mosquitto1.png Graphic file (type png)
+<use img/mosquitto1.png>
+Package pdftex.def Info: img/mosquitto1.png  used on input line 40.
+(pdftex.def)             Requested size: 380.92218pt x 251.43875pt.
+
+LaTeX Warning: Reference `sec:implementation' on page 3 undefined on input line
+ 45.
+
+
+LaTeX Warning: Reference `fig::ard' on page 3 undefined on input line 47.
+
+[3 <./img/mosquitto1.png>]
+<img/tinker1.png, id=19, 493.0922pt x 560.0925pt>
+File: img/tinker1.png Graphic file (type png)
+<use img/tinker1.png>
+Package pdftex.def Info: img/tinker1.png  used on input line 50.
+(pdftex.def)             Requested size: 295.85759pt x 336.05809pt.
+ [4 <./img/tinker1.png>]
+
+LaTeX Warning: Reference `fig::architecture' on page 5 undefined on input line 
+80.
+
+[5]
+<img/architecture.png, id=27, 717.43031pt x 307.1475pt>
+File: img/architecture.png Graphic file (type png)
+<use img/architecture.png>
+Package pdftex.def Info: img/architecture.png  used on input line 83.
+(pdftex.def)             Requested size: 394.58789pt x 168.93164pt.
+
+Overfull \hbox (4.58789pt too wide) in paragraph at lines 83--84
+[][] 
+ []
+
+
+LaTeX Warning: Citation `tech1' on page 6 undefined on input line 104.
+
+[6 <./img/architecture.png>]
+
+LaTeX Warning: Citation `tech2' on page 7 undefined on input line 114.
+
+
+LaTeX Warning: Citation `tech3' on page 7 undefined on input line 120.
+
+[7]
+
+LaTeX Warning: Citation `tech4' on page 8 undefined on input line 132.
+
+
+LaTeX Warning: Reference `fig:arduino1' on page 8 undefined on input line 154.
+
+[8]
+<img/ard1.png, id=40, 587.19376pt x 473.51906pt>
+File: img/ard1.png Graphic file (type png)
+<use img/ard1.png>
+Package pdftex.def Info: img/ard1.png  used on input line 157.
+(pdftex.def)             Requested size: 390.47894pt x 314.8862pt.
+
+
+LaTeX Warning: Reference `fig:arduino2' on page 9 undefined on input line 162.
+
+[9 <./img/ard1.png>]
+<img/ard2.png, id=44, 240.9pt x 137.7647pt>
+File: img/ard2.png Graphic file (type png)
+<use img/ard2.png>
+Package pdftex.def Info: img/ard2.png  used on input line 165.
+(pdftex.def)             Requested size: 168.62883pt x 96.43462pt.
+
+Overfull \hbox (0.24362pt too wide) in paragraph at lines 170--171
+\OT1/cmr/m/it/12 mes-sa-ge-Size), ul-tra-sonic[]pub(), re-conect(), setup() \OT
+1/cmr/m/n/12 and \OT1/cmr/m/it/12 loop()\OT1/cmr/m/n/12 . The \OT1/cmr/m/it/12 
+wi-fiesetup
+ []
+
+
+LaTeX Warning: Reference `sec:arduino' on page 10 undefined on input line 174.
+
+<img/phone1.jpeg, id=45, 1084.05pt x 956.57375pt>
+File: img/phone1.jpeg Graphic file (type jpg)
+<use img/phone1.jpeg>
+Package pdftex.def Info: img/phone1.jpeg  used on input line 177.
+(pdftex.def)             Requested size: 271.01184pt x 239.14285pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[10 <./img/ard2.png>]
+
+LaTeX Warning: Reference `fig::eye1' on page 11 undefined on input line 191.
+
+<img/eye1.png, id=50, 252.945pt x 285.31593pt>
+File: img/eye1.png Graphic file (type png)
+<use img/eye1.png>
+Package pdftex.def Info: img/eye1.png  used on input line 194.
+(pdftex.def)             Requested size: 202.35626pt x 228.25305pt.
+[11 <./img/phone1.jpeg>]
+
+LaTeX Warning: Reference `fig:eye23' on page 12 undefined on input line 199.
+
+<img/eye2.png, id=54, 154.32657pt x 274.02374pt>
+File: img/eye2.png Graphic file (type png)
+<use img/eye2.png>
+Package pdftex.def Info: img/eye2.png  used on input line 203.
+(pdftex.def)             Requested size: 117.00119pt x 207.75427pt.
+<img/eye4.png, id=55, 209.28188pt x 252.945pt>
+File: img/eye4.png Graphic file (type png)
+<use img/eye4.png>
+Package pdftex.def Info: img/eye4.png  used on input line 208.
+(pdftex.def)             Requested size: 117.00119pt x 141.40894pt.
+<img/eye3.png, id=56, 326.72063pt x 214.55156pt>
+File: img/eye3.png Graphic file (type png)
+<use img/eye3.png>
+Package pdftex.def Info: img/eye3.png  used on input line 214.
+(pdftex.def)             Requested size: 156.0006pt x 102.44012pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Reference `fig:eye23' on page 12 undefined on input line 223.
+
+
+LaTeX Warning: Reference `fig:phone1' on page 12 undefined on input line 227.
+
+[12 <./img/eye1.png>] [13 <./img/eye2.png> <./img/eye4.png> <./img/eye3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 242--243
+[]\OT1/cmr/m/n/12 APM. (n.d.-b). What is project man-age-ment?
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
+[]\OT1/cmr/m/n/12 GitHub. (n.d.). About projects. About Projects.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
+\OT1/cmr/m/n/12 https://docs.github.com/en/issues/trying-out-the-new-projects-
+ []
+
+[14] (main.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2813 strings out of 478582
+ 51603 string characters out of 2837264
+ 342165 words of memory out of 3000000
+ 21020 multiletter control sequences out of 15000+600000
+ 473280 words of font info for 41 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 67i,8n,77p,1339b,476s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\$FCFJ00-NB0564CH0C6I\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen
+/ec/dpi600\tcrm1200.pk><C:/Users/$FCFJ00-NB0564CH0C6I/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/$FCFJ00-NB0564CH0C6I/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users
+/$FCFJ00-NB0564CH0C6I/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmr12.pfb><C:/Users/$FCFJ00-NB0564CH0C6I/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/$FCFJ00-NB0564CH0C6I/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on main.pdf (14 pages, 1140195 bytes).
+PDF statistics:
+ 95 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+
